@@ -19,6 +19,7 @@ export default defineConfig([
     "build/**",
     "next-env.d.ts",
     "components/ui/**/*",
+    "**/*.css",
   ]),
 
   // Custom production rules
